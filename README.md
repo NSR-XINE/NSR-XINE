@@ -52,7 +52,7 @@
 <a href="https://t.me/thereache" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://linktr.ee/thereache" target="_blank">
+<a href="https://www.paypal.me/PrajapatiAbhay917" target="_blank">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 <br/>
