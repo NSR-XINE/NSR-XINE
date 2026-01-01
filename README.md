@@ -50,20 +50,22 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,git,linux,androidstudio,java" />
 </p>
 
-### 🛠️ Device & Kernel Expertise
-- Maintainer-level work on **Xiaomi & Poco devices**
-- Kernel debugging & module management
-- NFC / sensors / SELinux basic debugging
-- Device Tree & Vendor bring-ups
-- ROM builds: AOSP / Custom ROMs / vendor-specific fixes
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 📱 Maintained Devices / ROMs
 | Device | Codename | ROM Type | Status |
 |--------|----------|----------|--------|
-| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | Active |
-| Poco F8 Pro | annibale | Custom ROM | Active |
+| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | ![Active](https://img.shields.io/badge/Active-brightgreen) |
+| Redmi S2/Y2 | ysl | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey) |
+
+<p align="center">
+  <samp>💡 I also do:</samp>  
+  <br/>
+  <img src="https://img.shields.io/badge/MIUI-Mods-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HyperOS-Mods-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ColorOS-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OxygenOS-00BFFF?style=for-the-badge" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
