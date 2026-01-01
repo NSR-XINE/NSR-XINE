@@ -25,11 +25,15 @@
 - 💬 Ask me about | I like ??
 - ✔️ Known languages: C, C++, Scripting (batch/bash), Python, HTML.
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="NSR-XINE" /><br>
+<p align="center">
 <br>
+<p align="center">
 <a href="https://t.me/NSR_XINE" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+</p>
 <br/>
 <br/>
 <hr/>
