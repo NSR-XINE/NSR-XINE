@@ -2,7 +2,7 @@
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
-    <b><a target="_blank" href="https://t.me/NSR_XINE">NSR-XINE</a></b>
+    <b><a target="_blank" href="https://t.me/NSR_XINE">NSR ➹</a></b>
   </samp>
 </h3>
 
