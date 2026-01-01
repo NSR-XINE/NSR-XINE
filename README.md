@@ -37,19 +37,19 @@
 
 <p align="center">
   <a href="https://github.com/NSR-XINE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thereache&theme=radical&border=7F3FBF&background=0D1117" alt="Reache's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSR ➹&theme=radical&border=7F3FBF&background=0D1117" alt="Reache's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NSR-XINE">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thereache&theme=radical" alt="Thereache's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSR ➹&theme=radical" alt="NSR ➹'s GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/NSR-XINE"><img alt="Thereache's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Thereache&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/NSR-XINE"><img alt="Thereache's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Thereache&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/NSR-XINE"><img alt="NSR ➹'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NSR ➹&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/NSR-XINE"><img alt="NSR ➹'s Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NSR ➹&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
