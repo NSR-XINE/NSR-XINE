@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7F3FBF&center=true&vCenter=true&width=520&lines=Android+ROM+Maintainer;Learning+Android+Development;Open-Source+Contributor;Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7F3FBF&center=true&vCenter=true&width=540&lines=Android+ROM+Maintainer;Learning+Android+Development;Open-Source+Contributor;Always+Trying+To+Improve" />
 </p>
 
 <p align="center">
@@ -19,19 +19,21 @@
   </samp>
 </p>
 
-<br/>
+---
 
+### 👨‍💻 About Me
 - 🗒️ I am Trying To Learn
-- ⚡ I Started Learning Android Development in 2021
-- 📱 Devices I own: **Xiaomi 11 Lite NE 5G (lisa)** | **Poco F8 Pro (annibale)**
+- ⚡ I Started Learning Android Development in **2021**
+- 📱 Devices I own:  
+  **Xiaomi 11 Lite NE 5G (lisa)** | **Poco F8 Pro (annibale)**
 - 👯 I’m looking to collaborate on more projects
 - 💬 Ask me about | I like ??
 - ✔️ Known languages: **C, C++, Scripting (batch/bash), Python, HTML**
 
-<br/>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="NSR-XINE" />
+  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -40,12 +42,9 @@
   </a>
 </p>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-<br/>
-
+### 📊 GitHub Overview
 <p align="center">
   <a href="https://github.com/NSR-XINE">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSR-XINE&theme=radical" alt="NSR's GitHub Contribution"/>
@@ -71,16 +70,13 @@
   </a>
 </p>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-<br/>
-
+### 📈 Contribution Activity
 ![NSR's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<br/>
+---
 
 <p align="center">
-  <samp>⚡ Learning step by step — break, fix, repeat.</samp>
+  <samp>⚡ Learning step by step — build, break, fix, repeat.</samp>
 </p>
