@@ -61,10 +61,10 @@
 <p align="center">
   <samp>💡 I also do:</samp>  
   <br/>
-  <img src="https://img.shields.io/badge/MIUI-Mods-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HyperOS-Mods-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ColorOS-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OxygenOS-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MIUI-Mods-FF6F61?style=for-the-badge&animation=pop" />
+  <img src="https://img.shields.io/badge/HyperOS-Mods-6A5ACD?style=for-the-badge&animation=pop" />
+  <img src="https://img.shields.io/badge/ColorOS-Ports-FFD700?style=for-the-badge&animation=pop" />
+  <img src="https://img.shields.io/badge/OxygenOS-Ports-00BFFF?style=for-the-badge&animation=pop" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
