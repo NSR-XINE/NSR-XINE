@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 👨‍💻 About Me
-- 🗒️ I am still learning
+- 🗒️ I am still Learning
 - ⚡ I Started Learning Android Development in **2021**
 - 📱 Devices I own:  
   **Xiaomi 11 Lite NE 5G (lisa)** | **Poco F8 Pro (annibale)**
