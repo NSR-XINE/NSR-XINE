@@ -7,19 +7,19 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7F3FBF&center=true&vCenter=true&width=540&lines=Android+ROM+Maintainer;Learning+Android+Development;Open-Source+Contributor;Always+Trying+To+Improve" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&color=7F3FBF&center=true&vCenter=true&width=560&lines=Android+ROM+Maintainer;Learning+Android+Development+Since+2021;Open-Source+Contributor;Always+Improving" />
 </p>
 
 <p align="center">
   <samp>
     <a href="https://t.me/NSR_Stuffs_Chat">「 Telegram group 」</a>
     <br/>
-    「 I am a Maintainer from <b>Uttar Pradesh, India</b> 」
+    「 I am a Maintainer from <b>Uttar Pradesh, India</b> 🇮🇳 」
     <br/><br/>
   </samp>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 👨‍💻 About Me
 - 🗒️ I am Trying To Learn
@@ -30,17 +30,40 @@
 - 💬 Ask me about | I like ??
 - ✔️ Known languages: **C, C++, Scripting (batch/bash), Python, HTML**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="Profile Views" />
-</p>
-
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/NSR_XINE" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="Profile Views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
+
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,git,linux,androidstudio,java" />
+</p>
+
+### 🛠️ Device & Kernel Expertise
+- Maintainer-level work on **Xiaomi & Poco devices**
+- Kernel debugging & module management
+- NFC / sensors / SELinux basic debugging
+- Device Tree & Vendor bring-ups
+- ROM builds: AOSP / Custom ROMs / vendor-specific fixes
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
+
+### 📱 Maintained Devices / ROMs
+| Device | Codename | ROM Type | Status |
+|--------|----------|----------|--------|
+| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | Active |
+| Poco F8 Pro | annibale | Custom ROM | Active |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
@@ -75,8 +98,10 @@
 ### 📈 Contribution Activity
 ![NSR's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 <p align="center">
-  <samp>⚡ Learning step by step — build, break, fix, repeat.</samp>
+  <samp>
+    ⚡ Learning step by step — build, break, fix, repeat.
+  </samp>
 </p>
