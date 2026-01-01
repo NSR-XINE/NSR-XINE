@@ -37,12 +37,6 @@
 
 <p align="center">
   <a href="https://github.com/NSR-XINE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSR-XINE&theme=radical&border=7F3FBF&background=0D1117" alt="NSR's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NSR-XINE">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSR-XINE&theme=radical" alt="NSR's GitHub Contribution"/>
   </a>
 </p>
