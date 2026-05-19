@@ -55,7 +55,7 @@
 ### 📱 Maintained Devices / ROMs
 | Device | Codename | ROM Type | Status |
 |--------|----------|----------|--------|
-| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | ![Active](https://img.shields.io/badge/Active-brightgreen) |
+| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey) |
 | Redmi S2/Y2 | ysl | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey) |
 
 <p align="center">
