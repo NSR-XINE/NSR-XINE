@@ -1,34 +1,37 @@
-<!-- Intro -->
-<h3 align="center">
-  <samp>
-    &gt; Hey There!, I am
-    <b><a target="_blank" href="https://t.me/NSR_XINE">NSR ➹</a></b>
-  </samp>
-</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=180&section=header&text=Hey%20there,%20I'm%20NSR%20➹&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" />
+</p>
 
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&color=7F3FBF&center=true&vCenter=true&width=560&lines=Android+ROM+Maintainer;Learning+Android+Development+Since+2021;Open-Source+Contributor;Always+Improving" />
 </p>
 
+<!-- Location & Group -->
 <p align="center">
   <samp>
-    <a href="https://t.me/NSR_Stuffs_Chat">「 Telegram group 」</a>
-    <br/>
-    「 I am a Maintainer from <b>Uttar Pradesh, India</b> 🇮🇳 」
-    <br/><br/>
+    📍 Maintainer from <b>Uttar Pradesh, India 🇮🇳</b> | 💬 Join my <a href="https://t.me/NSR_Stuffs_Chat">Telegram group</a>
   </samp>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 👨‍💻 About Me
-- 🗒️ I am still Learning
-- ⚡ I Started Learning Android Development in **2021**
-- 📱 Devices I own:  
-  **Xiaomi 11 Lite NE 5G (lisa)** | **Poco F8 Pro (annibale)**
-- 👯 I’m looking to collaborate on more projects
-- 💬 Ask me about | I like ??
-- ✔️ Known languages: **C, C++, Scripting (batch/bash), Python, HTML**
+- ⚡ **Android Developer & ROM Maintainer** learning and building since **2021**.
+- 📱 **Devices I own**: Xiaomi 11 Lite NE 5G (`lisa`) | Poco F8 Pro (`annibale`).
+- 💬 **Ask me about**: Android ROMs, custom modding, bash scripting, and WebView integration.
+- 👯 **Collaboration**: Open to collaborating on open-source Android projects, custom ROM scripts, or UI porting.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
+
+### 🛠️ Featured Projects
+#### 🌌 [东画 My Donghua](https://github.com/NSR-XINE/my_donguha)
+> A sleek, high-aesthetic dark-themed native Android application designed for Chinese anime (Donghua) fans to track watched episodes, view release schedules, and follow live countdowns.
+
+- 🎨 **Modern Interface**: Material You dynamic styling, AMOLED true black, and fluid micro-animations.
+- 🔔 **Native Features**: AlarmManager notifications, SQLite database caching, and custom app widgets.
+- ⚙️ **Tech Stack**: Java (Android), WebView, HTML5/CSS3/JavaScript (Modular architecture).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
@@ -47,7 +50,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,git,linux,androidstudio,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,html,css,js,git,linux,androidstudio" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
@@ -77,7 +80,10 @@
 </p>
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blue-green&fontFamily=&preferLogin=true">    <img  alt="NSR-XINE's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=blue-green&fontFamily=&preferLogin=true"
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&fontFamily=&preferLogin=true">
+    <img
+      alt="NSR-XINE's GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=dracula&fontFamily=&preferLogin=true"
       height="192px"
       width="49%"
     />
@@ -85,7 +91,7 @@
   <a href="https://github.com/NSR-XINE">
     <img
       alt="NSR's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NSR-XINE&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=NSR-XINE&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
       height="192px"
       width="49%"
     />
@@ -95,12 +101,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 📈 Contribution Activity
-![NSR's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![NSR's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 <p align="center">
   <samp>
-    ⚡ Learning step by step — build, break, fix, repeat.
+    <i>⚡ Learning step by step — build, break, fix, repeat.</i>
   </samp>
 </p>
