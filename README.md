@@ -27,6 +27,10 @@
 
 ### 🛠️ Featured Projects
 #### 🌌 [东画 My Donghua](https://github.com/NSR-XINE/my_donguha)
+[![Project Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
+[![Language](https://img.shields.io/badge/Language-Java%20%7C%20JS-orange?style=flat-square)]()
+
 > A sleek, high-aesthetic dark-themed native Android application designed for Chinese anime (Donghua) fans to track watched episodes, view release schedules, and follow live countdowns.
 
 - 🎨 **Modern Interface**: Material You dynamic styling, AMOLED true black, and fluid micro-animations.
@@ -49,8 +53,20 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
 ### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,html,css,js,git,linux,androidstudio" />
+
+<p align="left">
+  <b>📱 Mobile & Frontend Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js" />
+</p>
+
+<p align="left">
+  <b>⚙️ Languages & Scripting</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+</p>
+
+<p align="left">
+  <b>🔧 Tools & Systems</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
@@ -58,8 +74,9 @@
 ### 📱 Maintained Devices / ROMs
 | Device | Codename | ROM Type | Status |
 |--------|----------|----------|--------|
-| Xiaomi 11 Lite NE 5G | lisa | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey) |
-| Redmi S2/Y2 | ysl | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey) |
+| **Poco F8 Pro** | `annibale` | Custom ROM / Ports | ![Planning](https://img.shields.io/badge/Planning-blue?style=flat-square) |
+| **Xiaomi 11 Lite NE 5G** | `lisa` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=flat-square) |
+| **Redmi S2/Y2** | `ysl` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=flat-square) |
 
 <p align="center">
   <samp>💡 I also do:</samp>  
