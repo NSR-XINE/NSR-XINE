@@ -77,10 +77,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NSR-XINE">
-    <img
-      alt="NSR's Github Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=blue-green&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card"
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blue-green&fontFamily=&preferLogin=true">    <img  alt="NSR-XINE's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=blue-green&fontFamily=&preferLogin=true"
       height="192px"
       width="49%"
     />
