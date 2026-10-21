@@ -23,7 +23,7 @@
 <blockquote>
   <p>
     ⚡ <b>Android Developer & ROM Maintainer</b> &bull; learning and crafting since <b>2021</b><br/>
-    📱 <b>Hardware:</b> Xiaomi 11 Lite NE 5G (<code>lisa</code>) &bull; Poco F8 Pro (<code>annibale</code>)<br/>
+    📱 <b>Hardware:</b> Xiaomi Pad 7 (<code>uke</code>) &bull; Poco F8 Pro (<code>annibale</code>) &bull; Xiaomi 11 Lite NE 5G (<code>lisa</code>)<br/>
     💬 <b>Focus:</b> Custom ROMs, Kernel trees, Bash automation & WebView integration<br/>
     👯 <b>Collaborations:</b> Open-source Android firmware, recovery trees & UI porting
   </p>
@@ -79,6 +79,7 @@
 
 | Device | Codename | ROM Type | Status |
 | :---: | :---: | :---: | :---: |
+| **Xiaomi Pad 7** | `uke` | Recovery / Custom ROM | ![Active](https://img.shields.io/badge/Active-1a102f?style=flat-square&labelColor=0f0820&color=22c55e) |
 | **Poco F8 Pro** | `annibale` | Custom ROM / Ports | ![Planning](https://img.shields.io/badge/Planning-1a102f?style=flat-square&labelColor=0f0820&color=38bdf8) |
 | **Xiaomi 11 Lite NE 5G** | `lisa` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-1a102f?style=flat-square&labelColor=0f0820&color=64748b) |
 | **Redmi S2/Y2** | `ysl` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-1a102f?style=flat-square&labelColor=0f0820&color=64748b) |
