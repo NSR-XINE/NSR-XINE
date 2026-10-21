@@ -123,7 +123,7 @@
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" alt="NSR's GitHub Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=1a102f&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=7F3FBF" alt="NSR's GitHub Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff10,50:7F3FBF,100:ffffff10&height=2" width="100%" />
