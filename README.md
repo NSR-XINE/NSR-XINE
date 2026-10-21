@@ -19,12 +19,16 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<p align="center">
-  ⚡ <b>Android Developer & ROM Maintainer</b> &bull; learning and crafting since <b>2021</b><br/>
-  📱 <b>Hardware:</b> Xiaomi 11 Lite NE 5G (<code>lisa</code>) &bull; Poco F8 Pro (<code>annibale</code>)<br/>
-  💬 <b>Focus:</b> Custom ROMs, Kernel trees, Bash automation & WebView integration<br/>
-  👯 <b>Collaborations:</b> Open-source Android firmware, recovery trees & UI porting
-</p>
+<div align="center">
+<blockquote>
+  <p>
+    ⚡ <b>Android Developer & ROM Maintainer</b> &bull; learning and crafting since <b>2021</b><br/>
+    📱 <b>Hardware:</b> Xiaomi 11 Lite NE 5G (<code>lisa</code>) &bull; Poco F8 Pro (<code>annibale</code>)<br/>
+    💬 <b>Focus:</b> Custom ROMs, Kernel trees, Bash automation & WebView integration<br/>
+    👯 <b>Collaborations:</b> Open-source Android firmware, recovery trees & UI porting
+  </p>
+</blockquote>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff10,50:7F3FBF,100:ffffff10&height=2" width="100%" />
 
@@ -45,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square&color=7F3FBF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square&color=c084fc&labelColor=1a102f&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff10,50:7F3FBF,100:ffffff10&height=2" width="100%" />
@@ -75,9 +79,9 @@
 
 | Device | Codename | ROM Type | Status |
 | :---: | :---: | :---: | :---: |
-| **Poco F8 Pro** | `annibale` | Custom ROM / Ports | ![Planning](https://img.shields.io/badge/Planning-38bdf8?style=flat-square) |
-| **Xiaomi 11 Lite NE 5G** | `lisa` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-475569?style=flat-square) |
-| **Redmi S2/Y2** | `ysl` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-475569?style=flat-square) |
+| **Poco F8 Pro** | `annibale` | Custom ROM / Ports | ![Planning](https://img.shields.io/badge/Planning-1a102f?style=flat-square&labelColor=0f0820&color=38bdf8) |
+| **Xiaomi 11 Lite NE 5G** | `lisa` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-1a102f?style=flat-square&labelColor=0f0820&color=64748b) |
+| **Redmi S2/Y2** | `ysl` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-1a102f?style=flat-square&labelColor=0f0820&color=64748b) |
 
 </div>
 
@@ -95,16 +99,17 @@
 <h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <a href="https://github.com/NSR-XINE">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSR-XINE&theme=radical" alt="NSR's GitHub Contribution"/>
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=NSR-XINE&theme=dark&background=1a102f88&border=ffffff33&stroke=ffffff22&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=94a3b8"
+    alt="NSR's GitHub Streak"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/NSR-XINE">
     <img
       alt="NSR-XINE's GitHub Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NSR-XINE&show_icons=true&bg_color=30,1a102f88,2d124d66&border_color=ffffff33&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NSR-XINE&show_icons=true&bg_color=30,1a102f88,2d124d66&border_color=ffffff33&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc&border_radius=10"
       height="192px"
     />
   </a>
@@ -112,7 +117,7 @@
   <a href="https://github.com/NSR-XINE">
     <img
       alt="NSR's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=NSR-XINE&langs_count=8&layout=compact&bg_color=30,1a102f88,2d124d66&border_color=ffffff33&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=NSR-XINE&langs_count=8&layout=compact&bg_color=30,1a102f88,2d124d66&border_color=ffffff33&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc&border_radius=10"
       height="192px"
     />
   </a>
@@ -123,7 +128,7 @@
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=1a102f&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=7F3FBF" alt="NSR's GitHub Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=1a102f&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=7F3FBF&hide_border=true" alt="NSR's GitHub Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff10,50:7F3FBF,100:ffffff10&height=2" width="100%" />
