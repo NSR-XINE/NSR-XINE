@@ -17,65 +17,83 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 👨‍💻 About Me
-- ⚡ **Android Developer & ROM Maintainer** learning and building since **2021**.
-- 📱 **Devices I own**: Xiaomi 11 Lite NE 5G (`lisa`) | Poco F8 Pro (`annibale`).
-- 💬 **Ask me about**: Android ROMs, custom modding, bash scripting, and WebView integration.
-- 👯 **Collaboration**: Open to collaborating on open-source Android projects, custom ROM scripts, or UI porting.
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  ⚡ <b>Android Developer & ROM Maintainer</b> learning and building since <b>2021</b>.<br/>
+  📱 <b>Devices I own:</b> Xiaomi 11 Lite NE 5G (<code>lisa</code>) &bull; Poco F8 Pro (<code>annibale</code>)<br/>
+  💬 <b>Ask me about:</b> Android ROMs, custom modding, bash scripting, and WebView integration.<br/>
+  👯 <b>Collaboration:</b> Open to collaborating on open-source Android projects, custom ROM scripts, or UI porting.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
+
 <p align="center">
   <a href="https://t.me/NSR_XINE" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/NSR_Stuffs_Chat" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Group-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" />
+  </a>
+  &nbsp;
+  <a href="mailto:nasironfire07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NSR-XINE&style=flat-square&color=7F3FBF&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 🧰 Languages & Tools
+<h3 align="center">🧰 Languages & Tools</h3>
 
-<p align="left">
+<p align="center">
   <b>📱 Mobile & Frontend Development</b><br/>
   <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js" />
 </p>
 
-<p align="left">
+<p align="center">
   <b>⚙️ Languages & Scripting</b><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-<p align="left">
+<p align="center">
   <b>🔧 Tools & Systems</b><br/>
   <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 📱 Maintained Devices / ROMs
+<h3 align="center">📱 Maintained Devices / ROMs</h3>
+
+<div align="center">
+
 | Device | Codename | ROM Type | Status |
-|--------|----------|----------|--------|
+| :---: | :---: | :---: | :---: |
 | **Poco F8 Pro** | `annibale` | Custom ROM / Ports | ![Planning](https://img.shields.io/badge/Planning-blue?style=flat-square) |
 | **Xiaomi 11 Lite NE 5G** | `lisa` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=flat-square) |
 | **Redmi S2/Y2** | `ysl` | Custom ROM | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=flat-square) |
 
+</div>
+
 <p align="center">
   <samp>💡 I also do:</samp>  
   <br/>
-  <img src="https://img.shields.io/badge/MIUI-Mods-FF6F61?style=for-the-badge&animation=pop" />
-  <img src="https://img.shields.io/badge/HyperOS-Mods-6A5ACD?style=for-the-badge&animation=pop" />
-  <img src="https://img.shields.io/badge/ColorOS-Ports-FFD700?style=for-the-badge&animation=pop" />
-  <img src="https://img.shields.io/badge/OxygenOS-Ports-00BFFF?style=for-the-badge&animation=pop" />
+  <img src="https://img.shields.io/badge/MIUI-Mods-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HyperOS-Mods-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ColorOS-Ports-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OxygenOS-Ports-00BFFF?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 📊 GitHub Overview
+<h3 align="center">📊 GitHub Overview</h3>
+
 <p align="center">
   <a href="https://github.com/NSR-XINE">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSR-XINE&theme=radical" alt="NSR's GitHub Contribution"/>
@@ -83,10 +101,10 @@
 </p>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&fontFamily=&preferLogin=true">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&preferLogin=true">
     <img
       alt="NSR-XINE's GitHub Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=dracula&fontFamily=&preferLogin=true"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/NSR-XINE?cardType=level&theme=dracula&preferLogin=true"
       height="192px"
       width="49%"
     />
@@ -103,8 +121,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 📈 Contribution Activity
-![NSR's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSR-XINE&custom_title=NSR's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" alt="NSR's GitHub Activity Graph" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
