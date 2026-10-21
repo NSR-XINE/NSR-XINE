@@ -25,20 +25,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
 
-### 🛠️ Featured Projects
-#### 🌌 [东画 My Donghua](https://github.com/NSR-XINE/my_donguha)
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
-[![Language](https://img.shields.io/badge/Language-Java%20%7C%20JS-orange?style=flat-square)]()
-
-> A sleek, high-aesthetic dark-themed native Android application designed for Chinese anime (Donghua) fans to track watched episodes, view release schedules, and follow live countdowns.
-
-- 🎨 **Modern Interface**: Material You dynamic styling, AMOLED true black, and fluid micro-animations.
-- 🔔 **Native Features**: AlarmManager notifications, SQLite database caching, and custom app widgets.
-- ⚙️ **Tech Stack**: Java (Android), WebView, HTML5/CSS3/JavaScript (Modular architecture).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=2" width="100%" />
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/NSR_XINE" target="_blank">
